@@ -1,4 +1,4 @@
-# 目錄 Summary
+# Table of contents
 
 * [首頁](README.md)
 
@@ -12,9 +12,9 @@
 * [05 · UI 視覺規範](giants/05-ui-style.md)
 * [06 · 開發排程](giants/06-schedule.md)
 
-## ⚔️ Soul of Another World
+## ⚔️ 異界之魂
 
-* [專案總覽](soul/README.md)
-* [01 · 遊戲概述](soul/01-overview.md)
-* [02 · 戰鬥系統設計](soul/02-combat.md)
-* [03 · 競品分析](soul/03-competitive.md)
+* [專案總覽](yi-jie-zhi-hun/soul.md)
+* [01 · 遊戲概述](yi-jie-zhi-hun/01-overview.md)
+* [02 · 戰鬥系統設計](yi-jie-zhi-hun/02-combat.md)
+* [03 · 競品分析](yi-jie-zhi-hun/03-competitive.md)
